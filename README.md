@@ -4,11 +4,11 @@ from FAL detection
 
 
 
-pip install -r requirements.txt
+·pip install -r requirements.txt
 
 
 # Download model weights
-Run bash weights/download_weights.sh
+·Run bash weights/download_weights.sh
 
 # Global classifer
 python global_classifier.py --input_path examples/modified.jpg --model_path weights/global.pth
