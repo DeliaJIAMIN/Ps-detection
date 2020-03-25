@@ -1,0 +1,9 @@
+dlib
+mmcv
+scipy
+numpy
+matplotlib
+Pillow
+torchvision
+
+
